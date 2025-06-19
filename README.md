@@ -8,6 +8,7 @@ Let’s build something awesome!</p>
 <span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-ftW&layout=compact&hide=TSQL&theme=chartreuse-dark"></span>
 <span align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Yash-ftW&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></span> 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ### 🛠 &nbsp;Tech Stack
 

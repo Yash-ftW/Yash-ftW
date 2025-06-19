@@ -13,7 +13,6 @@
 - 🔭 I’m currently working as a Frontend Developer
 - 💻 I specialize in building sleek UIs using **React**, **Vue**, and **Next.js**
 - 🌱 I’m currently leveling up with **Node.js** and **Framer Motion**
-- 📫 Reach me at **[yash.maharjan1@gmail.com](mailto:yash.maharjan1@gmail.com)**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -75,3 +74,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+

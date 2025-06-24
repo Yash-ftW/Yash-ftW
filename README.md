@@ -68,7 +68,7 @@
 
 ### 🎯 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-maharjan/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashmaharjan/)  
 - 🌐 [Portfolio](https://yashmaharjan.com.np) 
 
 <p align="center">

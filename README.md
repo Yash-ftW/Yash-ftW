@@ -47,6 +47,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-05122A?style=flat&logo=ant-design)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-05122A?style=flat&logo=vercel)
 
 #### 🛠️ Dev Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
